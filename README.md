@@ -1,3 +1,9 @@
+# 说明
+
+通过yo创建React项目, 并且学习React和Redux
+
+***
+
 # 环境要求
 
 1. 环境要求 node js环境 ,请安装最新node js 版本
